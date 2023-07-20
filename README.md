@@ -11,7 +11,7 @@ FundMe is a sample Smart Contract for crowd funding app.
 ## Quickstart
 
 ```bash
-git clone 'Project Name'
+git clone https://github.com/kritarthpaliwal/foundry-fund-me.git
 cd FoundryFundMe
 forge build
 ```
